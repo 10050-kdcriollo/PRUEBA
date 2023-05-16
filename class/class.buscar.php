@@ -1,4 +1,4 @@
-<button type="button" class="btn btn-dark" ><a href="index.php">INICIO</a></button>
+<button type="button" class="btn btn-dark" ><a href="index.html">INICIO</a></button>
 
 <?php
 class buscar{
